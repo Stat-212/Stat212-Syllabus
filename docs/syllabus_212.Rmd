@@ -24,7 +24,7 @@ subtitle: Course Syllabus
 
 **Email:** [roith1@stolaf.edu](mailto:roith1@stolaf.edu) 
 
-**Drop-in office hours:** Tue 10 - 11am, Wed 2 - 3pm, Thurs 9 - 10am. 
+**Drop-in office hours:** Tue 10 - 11 AM, Wed 2 - 3 PM, Thurs 9 - 10 AM. 
 
 You may also schedule an appointment with me (check my [calendar](https://calendar.google.com/calendar/r/week/2019/9/11?tab=mc&pli=1) for availability) or drop by and talk if my door is open.
 
@@ -104,14 +104,14 @@ This course will use R extensively. Begin by reading the guides to R posted on t
 
 Learning R is necessary to do statistics. There is a learning curve, but try not to get too frustrated. Come to office hours, attend SI sessions, ask friends for help, post to our computing issues thread, and ask me questions in class. Past students have found learning R to be ultimately very useful and even fun. R is freely downloadable for both Mac and PC at [https://cran.r-project.org/](https://cran.r-project.org/), and it’s available on a St. Olaf server!
 
-Our classroom (RNS 160R) is not equipped with computer, so please bring your own machine. There are several laptops in the classroom that may be used by request. I will tend to use the PC side in class. COMPUTERS ARE TO BE USED FOR EDUCATIONAL PURPOSES ONLY! Students who use computers during class time for purposes beyond Stat 212 (email, internet surfing, paper writing, etc.) may have their computer privileges revoked and participation points reduced.
+Our classroom (RNS 160R) is not equipped with computers, so please bring your own device. There are several laptops in the classroom that may be used by request. I will tend to use the PC side in class. COMPUTERS ARE TO BE USED FOR EDUCATIONAL PURPOSES ONLY! Students who use computers during class time for purposes beyond Stat 212 (email, internet surfing, paper writing, etc.) may have their computer privileges revoked and participation points reduced.
 
 ## Grades
 Your course grade will be determined as follows:
 
 Grade Subgroup        |  Weight
 --------------------- | ---------
-Homeworks Assignments |		20%
+Homework Assignments |		20%
 Midterm Exams (2)	|		20% each
 Group Project		|		20%
 Final Exam			|	    20%
@@ -132,7 +132,7 @@ Homework assignments will be assigned weekly. Homework assignments are designed 
 
 * Homework is completed using RMarkdown and you are required to upload both the RMarkdown (.Rmd) file and knitted pdf file to Moodle.
 
-* There will be 1-2 "Independant Homework" assignments in which you must sign an Honor Code pledge that you worked alone. This is to encourage everyone to develop their own skillset for analyzing data with R.
+* There will be 1-2 "Independent Homework" assignments in which you must sign an Honor Code pledge that you worked alone. This is to encourage everyone to develop their own skillset for analyzing data with R.
 
 ## Class Preparation and Participation
 You are expected to come to class having read the assigned readings and completed assigned work. You will be asked to show work on the board, work with classmates on in-class activities, and engage in classroom assignments. Course grades may be adjusted based on class participation and attendance.
@@ -153,9 +153,9 @@ You can all be successful in this class! If you are struggling or if you’re fe
 
 Come see me at my drop-in office hours, or make an appointment, or see if my door’s open
 
-* Connect with your classmates
+* Connect with your classmates.
 
-* CIR Office Hours are 1-2 Mon-Fri and 7:30-8:30 PM Sun-Thurs for project questions only
+* CIR Office Hours are 1-2 PM Mon-Fri and 7:30-8:30 PM Sun-Thurs for project questions only.
 
 * Visit the [Academic Support Center](https://wp.stolaf.edu/academic-support/) if you want to improve your general study skills and habits.
 
@@ -165,17 +165,19 @@ This section of Stat 212 is supported by Supplemental Instruction (SI). SI is a 
 ### Noah’s SI sessions –
 
 ## Tutor Requests 
-Tutors are available through the ASC. I will only approve a tutor request once you have taken full advantage of resources available to you in and out of class. You are encouraged to work with classmates on homework and form study groups. You are required to attend SI sessions and office hours prior to requesting a tutor. Additionally, you must discuss with me your goals for working with a tutor prior to placing a request with ASC. Absence from class will prevent you from obtaining or continuing with an assigned tutor.
+Tutors are available through the [CAAS](https://wp.stolaf.edu/caas). I will only approve a tutor request once you have taken full advantage of resources available to you in and out of class. You are encouraged to work with classmates on homework and form study groups. You are required to attend SI sessions and office hours prior to requesting a tutor. Additionally, you must discuss with me your goals for working with a tutor prior to placing a request with ASC. Absence from class will prevent you from obtaining or continuing with an assigned tutor.
 
 # Notes and Statements
 
 ## Note about Disabilities 
 
-I am committed to supporting the learning of all students in my class. If you have already registered with Disability and Access (DAC) and have your letter of accommodations, please meet with me early in the course to discuss, plan, and implement your accommodations in the course. If you have or think you have a disability (learning, sensory, physical, chronic health, mental health or attention), please contact Disability and Access staff to discuss possible accommodations. More information can be found by visiting [wp.stolaf.edu/asc/dac.](https://wp.stolaf.edu/academic-support/dac/)
+I am committed to supporting the learning of all students in my class. If you have already registered with Disability and Access (DAC) and have your letter of accommodations, please meet with me as soon as possible to discuss, plan, and implement your accommodations in the course. If you have or think you have a disability (learning, sensory, physical, chronic health, mental health or attentional), please contact Disability and Access staff at 507-786-3288 or by visiting [wp.stolaf.edu/academic-support/dac](wp.stolaf.edu/academic-support/dac).
 
 ## Statement of Inclusivity 
 
 In keeping with St. Olaf College’s mission statement, this class strives to be an inclusive learning community, respecting those of differing backgrounds and beliefs. As a community, we aim to be respectful to all citizens in this class, regardless of race, ethnicity, religion, gender or sexual Orientation.
+
+I am committed to making course content accessible to all students.  If English is not your first language and this causes you concern about the course, please speak with me.
 
 ## Note about Academic Integrity
 

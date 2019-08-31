@@ -14,6 +14,7 @@ During this course I will have many expectations of you. In turn, you should hav
 ## My expectations of you
 
 * Show up to class.
+    * On time and stay the entire time (this includes refraining from packing up with 5 mins left in class).
 
 * Show up to class prepared to learn and discuss.
     * This means complete the reading assignments, homework, or anything else required of you. It also means be engaged, give the topic your full attention (no sleeping).
@@ -63,3 +64,25 @@ Don't simply read the textbook. Take time to think about what you read. When lea
 
 [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/) is the process of thinking about how you think. Basically, before you read a chapter, think about what you know about that topic (you my know nothing about it). After you read it, think about what you now understand, and think about how it fits into the larger subject of statistics (this is where I come in to put things in perspective). Finally, understand that there are things you won't understand right away and that's OK. Talk about your areas of confusion in or out of class with me, the SI, a tutor, your dog, just verbalize them and try to find the source of the confusion.
 
+# More academic resources
+
+## Writing
+
+Peer tutors at the Writing Desk offer help with any paper, in any class, at any stage of the writing process. You can sign up for an appointment online or drop in to RML 354 or the outer reference room, across from the reference desk/by the IT helpdesk. Tutors are available Sundays 12-5 and 7-10, Mondays-Thursdays 9-5 and 7-10, and Fridays 9-5. Learn more at [http://wp.stolaf.edu/caas/writing-help/](http://wp.stolaf.edu/caas/writing-help/).
+
+## Speaking
+
+Speaking tutors help students effectively speak and listen within academic conversations, from participating in or leading class discussions to preparing and rehearsing formal presentations. You can sign up for an appointment online or drop in Sundays-Thursdays 7-10pm in RML355. Learn more at [http://wp.stolaf.edu/caas/speaking-center/](http://wp.stolaf.edu/caas/speaking-center/).
+
+## Mental health
+
+I greatly value your experience in this class, and it is my duty to facilitate a safe, caring, and productive learning environment. I recognize that you may experience a range of emotional, physical, and/or psychological issues, both in and out of the classroom, that may distract you from your learning.
+If you are experiencing such issues, please do not hesitate to come see me—I am here to listen. We can also discuss what further resources might be available to you.
+
+I take this very seriously. I understand the stress and load you are feeling from other classes and activities. I expect you to do the work in this class and your others but I want you to be *healthy people* above all else.
+
+## Gender Pronouns
+
+This course affirms people of all gender expressions and gender identities. If you go by a different name than what is on the class roster, please let me know. Using correct gender pronouns is important to me, so you are encouraged to share your pronouns with me and correct me if a mistake is made. If you have any questions or concerns, please do not hesitate to contact me.
+
+Statistics has traditionally been a reinforcer of gender stigmas. We will discuss how we can promote change and also how we sometimes have to deal with the nature of data as collected.
