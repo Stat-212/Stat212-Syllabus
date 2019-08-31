@@ -1,5 +1,5 @@
 ---
-title: 'Stat 212c: Statistics for the Sciences'
+title: 'STAT 212c: Statistics for the Sciences'
 author: "Joe Roith"
 date: "Fall 2019"
 output:
@@ -171,7 +171,7 @@ Tutors are available through the [CAAS](https://wp.stolaf.edu/caas). I will only
 
 ## Note about Disabilities 
 
-I am committed to supporting the learning of all students in my class. If you have already registered with Disability and Access (DAC) and have your letter of accommodations, please meet with me as soon as possible to discuss, plan, and implement your accommodations in the course. If you have or think you have a disability (learning, sensory, physical, chronic health, mental health or attentional), please contact Disability and Access staff at 507-786-3288 or by visiting [wp.stolaf.edu/academic-support/dac](wp.stolaf.edu/academic-support/dac).
+I am committed to supporting the learning of all students in my class. If you have already registered with Disability and Access (DAC) and have your letter of accommodations, please meet with me as soon as possible to discuss, plan, and implement your accommodations in the course. If you have or think you have a disability (learning, sensory, physical, chronic health, mental health or attention), please contact Disability and Access staff at 507-786-3288 or by visiting [wp.stolaf.edu/academic-support/dac](wp.stolaf.edu/academic-support/dac).
 
 ## Statement of Inclusivity 
 

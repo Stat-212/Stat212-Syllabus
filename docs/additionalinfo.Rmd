@@ -8,6 +8,13 @@ output:
     theme: cosmo
 ---
 
+# Doct--Profes--Miste--"Hey, you!"
+What should you call me? If this is the first time I've had you in class, I prefer "Professor Roith" ("Dr. Roith" is OK but I might try to perform surgery on you). If I've had you in a previous class, or we are working together regularly (on research, CIR, as a TA, etc.) you may call me "Joe". I typically don't like "Professor Joe" or "Mr. Roith".
+
+As we go through the semester and get to know each other more and have better discussions, I may let everyone call me Joe. I hope we get to that point!
+
+Please feel free to inform me on your preferred name at any time (including immediately after I forget to use it).
+
 # Expectations
 During this course I will have many expectations of you. In turn, you should have expectations of me (I encourage you to discuss this with other professors as well, just don't tell them I gave you the idea).
 
@@ -35,7 +42,7 @@ During this course I will have many expectations of you. In turn, you should hav
     * I will change things if you feel this is not a safe place for learning. It helps me become a better teacher so *please* let me know how I can be more inclusive and open.
 
 * I will show up to class on time every day.
-    * If I cannot I will inform the you as soon as possible.
+    * If I cannot I will inform you as soon as possible.
     
 * I will return graded assignments in a timely fashion (Hopefully within one week of due date).
 
@@ -57,7 +64,7 @@ Put the phones away, and even consider taking hand written notes during lecture 
 ## Speak up
 I want to get everyone in class to speak at some point during the semester. [More research](http://www.ascd.org/publications/educational-leadership/nov14/vol72/num03/Get-All-Students-to-Speak-Up.aspx) points to the fact that in a typical classroom, about 80 percent of the discussion is lead by 15 percent of students. And when you speak up, you are more likely to achieve a higher grade than when you do not.
 
-I will let there be silence in the classroom until someone talks or I may call on you to give your opinion. The classroom may feel slightly uncomfortable at sometimes, but know that this is a safe environment where I invite any question. No one is here to judge your responses in the classroom, we are all learning and new at this.
+I will let there be silence in the classroom until someone talks or I may call on you to give your opinion. The classroom may feel slightly uncomfortable occasionally, but know that this is a safe environment where I invite any question. No one is here to judge what you say in the classroom, we are all learning and new at this.
 
 ## Think about the textbook
 Don't simply read the textbook. Take time to think about what you read. When learning any subject there are things you know, things you know you don't know, and things you don't know you don't know ( [woah](https://www.youtube.com/watch?v=9CS7j5I6aOc) ). 
@@ -85,4 +92,4 @@ I take this very seriously. I understand the stress and load you are feeling fro
 
 This course affirms people of all gender expressions and gender identities. If you go by a different name than what is on the class roster, please let me know. Using correct gender pronouns is important to me, so you are encouraged to share your pronouns with me and correct me if a mistake is made. If you have any questions or concerns, please do not hesitate to contact me.
 
-Statistics has traditionally been a reinforcer of gender stigmas. We will discuss how we can promote change and also how we sometimes have to deal with the nature of data as collected.
+Statistics has traditionally been a bastion of gender stigmas. We will discuss how we can promote change and also how we sometimes have to deal with the nature of data as collected.
