@@ -204,19 +204,21 @@ St. Olaf's Academic Integrity Policy, including the Honor System, is an integral
 | Week 3 | Central Limit Theorem; Normal distribution | 2.5-2.7 |
 | Week 4 | Confidence intervals; Inference for a single proportion | 2.8, 3.1 |
 | Week 5 | Inference for two proportions | 3.2 |
-|  | **Exam #1 (Friday, March 8)** | |
+|  | **Exam #1 (Friday, September 27)** | |
 | Week 6 | Two-way tables, One-sample t-tests | 3.3-3.4; 4.1 |
 | Week 7 | Two-sample t-tests | 4.2-4.3 |
-| Week 8 | **FALL BREAK** |
-| Week 9 | ANOVA; Bootstrapping | 4.4-4.5 |
-| Week 10 | Simple linear regression – line fitting; least squares | 5.1-5.2 |
-| | **Exam #2 (Friday, April 12)** | |
-| Week 11 | Simple linear regression – outliers; inference | 5.3-5.4 |
-| Week 12 | Simple linear regression (cont.) | |
-| Week 13 | Multiple linear regression | 6.1-6.3 |
-| Week 14 | Multiple linear regression (cont.) | |
+| | **FALL BREAK (October 12 - 15)** |
+| Week 8 | ANOVA; Bootstrapping | 4.4-4.5 |
+| Week 9 | Simple linear regression – line fitting; least squares | 5.1-5.2 |
+| Week 10 | Simple linear regression – outliers; inference | 5.3-5.4 |
+| | **Exam #2 (Friday, November 8)** | |
+| Week 11 | Simple linear regression (cont.) | |
+| Week 12 | Multiple linear regression | 6.1-6.3 |
+| Week 13 | Multiple linear regression (cont.) | |
+| | **Thanksgiving Break (November 27 - 29)** | |
+| Week 14 | Open for Projects or additional material | |
 | Week 15 | Wrap up and Review | |
-| | **Final Exam: Saturday, Dec 14, 2:00-4:00 pm** |
+| | **Final Exam: Saturday, Dec 14, 2:00-4:00 PM** |
 
 
-![Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.](images/correlation.png)
+![ [https://xkcd.com/552/](https://xkcd.com/552/) ](images/correlation.png)
