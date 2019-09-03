@@ -163,7 +163,13 @@ Come see me at my drop-in office hours, or make an appointment, or see if my doo
 ## Supplemental Instruction
 This section of Stat 212 is supported by Supplemental Instruction (SI). SI is a series of weekly review sessions for students lead by the SI Leader Noah Hillman. SI is provided for all students in the course who want to acquire effective learning strategies, develop a stronger understanding of course material, and improve their grades. In most cases, regular SI attendance results in at least one letter grade higher than if a student never attended. SI is a structured and collaborative learning environment where students can further engage with course material and enhance their learning. SI sessions will start the first week of class and end the last day of classes. Faculty support and SI are the primary resources for students enrolled in this class.
 
-### Noah’s SI sessions –
+### Noah’s SI sessions
+
+| Day | Time | Room |
+| ------- | ------- | ------- |
+| Sundays | 6:30 - 7:30 PM | TOH |
+| Tuesdays | 8:00 - 9:00 PM | TOH |
+| Thursdays | 7:15 - 8:15 PM | TOH |
 
 ## Tutor Requests 
 Tutors are available through the [CAAS](https://wp.stolaf.edu/caas). I will only approve a tutor request once you have taken full advantage of resources available to you in and out of class. You are encouraged to work with classmates on homework and form study groups. You are required to attend SI sessions and office hours prior to requesting a tutor. Additionally, you must discuss with me your goals for working with a tutor prior to placing a request with ASC. Absence from class will prevent you from obtaining or continuing with an assigned tutor.
