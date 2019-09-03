@@ -1,6 +1,5 @@
 ---
 title: 'STAT 212c: Statistics for the Sciences'
-author: "Joe Roith"
 date: "Fall 2019"
 output:
   html_document:
@@ -23,6 +22,8 @@ subtitle: Course Syllabus
 **Telephone:** (507) 786-3140
 
 **Email:** [roith1@stolaf.edu](mailto:roith1@stolaf.edu) 
+
+  >Note: I will respond to emails as quickly as possible during the week before 5 PM. I *may* respond to emails in the evenings or on weekends, but do not rely on it.
 
 **Drop-in office hours:** Tue 10 - 11 AM, Wed 2 - 3 PM, Thurs 9 - 10 AM. 
 
