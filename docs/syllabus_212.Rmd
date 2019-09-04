@@ -1,6 +1,6 @@
 ---
 title: 'STAT 212c: Statistics for the Sciences'
-date: "Fall 2019"
+date : "Fall 2019"
 output:
   html_document:
     theme: cosmo

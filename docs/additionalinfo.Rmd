@@ -6,6 +6,8 @@ output:
     doc_depth: 2
     toc_float: true
     theme: cosmo
+  pdf_document:
+    toc: false
 ---
 
 # Doct--Profes--Miste--"Hey, you!"
@@ -13,7 +15,7 @@ What should you call me? If this is the first time I've had you in class, I pref
 
 As we go through the semester and get to know each other more and have better discussions, I may let everyone call me Joe. I hope we get to that point!
 
-Please feel free to inform me on your preferred name at any time (including immediately after I forget to use it).
+Please feel free to tell me your preferred name at any time (including immediately after I forget to use it).
 
 # Expectations
 During this course I will have many expectations of you. In turn, you should have expectations of me (I encourage you to discuss this with other professors as well, just don't tell them I gave you the idea).
@@ -24,21 +26,21 @@ During this course I will have many expectations of you. In turn, you should hav
     * On time and stay the entire time (this includes refraining from packing up with 5 mins left in class).
 
 * Show up to class prepared to learn and discuss.
-    * This means complete the reading assignments, homework, or anything else required of you. It also means be engaged, give the topic your full attention (no sleeping).
+    * This means complete the reading assignments, homework, or anything else required of you. It also means be engaged, give the topic your full attention.
     
 * Be open to statistics. 
     * Find your motivation for using and learning stats, it can be used in *any* field.
 
 * Be persistent.
-    * There will be times where you get frustrated with the material or the software. Just know that you are not the first or only one to encounter these issues. Especially in R, remember these two facts: 1) people WAY more advanced than you make stupid mistakes daily in R and 2) people at any level who search for solutions or ask for help usually can get their problems resolved.
+    * There will be times where you get frustrated with the material or the software. Just know that you are not the first or only one to encounter these issues. Especially in computing (with R or SPSS), remember these two facts: 1) people WAY more advanced than you make stupid mistakes daily and 2) people at any level who search for solutions or ask for help usually can get their problems resolved.
     
 * Make this a fun, respectful class.
-    * I like to joke around and have fun in class. Feel free to join in and feel relaxed, but don't take things too far. I will keep us on task and will not tolerate inappropriate behavior.
+
     
 ## Your expectations of me
 
 * I will make this a safe place for learning.
-    * Your voice will be heard and is needed as a valid part of the population. I want as many viewpoints as I can get.
+    * Your voice will be heard and is needed as part of the population. We need multiple viewpoints.
     * I will change things if you feel this is not a safe place for learning. It helps me become a better teacher so *please* let me know how I can be more inclusive and open.
 
 * I will show up to class on time every day.
@@ -64,7 +66,7 @@ Put the phones away, and even consider taking hand written notes during lecture 
 ## Speak up
 I want to get everyone in class to speak at some point during the semester. [More research](http://www.ascd.org/publications/educational-leadership/nov14/vol72/num03/Get-All-Students-to-Speak-Up.aspx) points to the fact that in a typical classroom, about 80 percent of the discussion is lead by 15 percent of students. And when you speak up, you are more likely to achieve a higher grade than when you do not.
 
-I will let there be silence in the classroom until someone talks or I may call on you to give your opinion. The classroom may feel slightly uncomfortable occasionally, but know that this is a safe environment where I invite any question. No one is here to judge what you say in the classroom, we are all learning and new at this.
+I will let there be silence in the classroom until someone talks or I may call on you to give your opinion. The classroom may feel slightly uncomfortable on occasion, but know that this is a safe environment where I invite any question. No one is here to judge what you say in the classroom, we are all learning and new at this.
 
 ## Think about the textbook
 Don't simply read the textbook. Take time to think about what you read. When learning any subject there are things you know, things you know you don't know, and things you don't know you don't know ( [woah](https://www.youtube.com/watch?v=9CS7j5I6aOc) ). 
