@@ -112,9 +112,10 @@ Your course grade will be determined as follows:
 
 Grade Subgroup        |  Weight
 --------------------- | ---------
-Homework Assignments |		20%
+Homework Assignments |		15%
+Quizzes & Independant Homework | 15%
 Midterm Exams (2)	|		20% each
-Group Project		|		20%
+Group Project		|		10%
 Final Exam			|	    20%
 
 
@@ -211,8 +212,8 @@ St. Olaf's Academic Integrity Policy, including the Honor System, is an integral
 | Week 3 | Central Limit Theorem; Normal distribution | 2.5-2.7 |
 | Week 4 | Confidence intervals; Inference for a single proportion | 2.8, 3.1 |
 | Week 5 | Inference for two proportions | 3.2 |
-|  | **Exam #1 (Friday, September 27)** | |
 | Week 6 | Two-way tables, One-sample t-tests | 3.3-3.4; 4.1 |
+|  | **Exam #1 (Friday, September 27)** | |
 | Week 7 | Two-sample t-tests | 4.2-4.3 |
 | | **FALL BREAK (October 12 - 15)** |
 | Week 8 | ANOVA; Bootstrapping | 4.4-4.5 |
