@@ -172,9 +172,9 @@ This section of Stat 212 is supported by Supplemental Instruction (SI). SI is a 
 
 | Day | Time | Room |
 | ------- | ------- | ------- |
-| Sundays | 6:30 - 7:30 PM | TOH |
-| Tuesdays | 8:00 - 9:00 PM | TOH |
-| Thursdays | 7:15 - 8:15 PM | TOH |
+| Sundays | 6:00 - 7:00 PM | TOH 182 |
+| Tuesdays | 8:00 - 9:00 PM | TOH 182 |
+| Thursdays | 7:15 - 8:15 PM | TOH 182 |
 
 ## Tutor Requests 
 Tutors are available through the [CAAS](https://wp.stolaf.edu/caas). I will only approve a tutor request once you have taken full advantage of resources available to you in and out of class. You are encouraged to work with classmates on homework and form study groups. You are required to attend SI sessions and office hours prior to requesting a tutor. Additionally, you must discuss with me your goals for working with a tutor prior to placing a request with ASC. Absence from class will prevent you from obtaining or continuing with an assigned tutor.
@@ -220,8 +220,8 @@ St. Olaf's Academic Integrity Policy, including the Honor System, is an integral
 | Week 5 | Inference for two proportions | 3.2 |
 |  | **Exam #1 (Friday, October 4)** | |
 | Week 6 | Two-way tables, One-sample t-tests | 3.3-3.4; 4.1 |
-| Week 7 | Two-sample t-tests | 4.2-4.3 |
 | | **FALL BREAK (October 12 - 15)** |
+| Week 7 | Two-sample t-tests | 4.2-4.3 |
 | Week 8 | ANOVA; Bootstrapping | 4.4-4.5 |
 | Week 9 | Simple linear regression – line fitting; least squares | 5.1-5.2 |
 | Week 10 | Simple linear regression – outliers; inference | 5.3-5.4 |
