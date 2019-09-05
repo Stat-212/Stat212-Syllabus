@@ -2,13 +2,13 @@
 title: 'STAT 212c: Statistics for the Sciences'
 date : "Fall 2019"
 output:
+  pdf_document:
+    toc: no
   html_document:
     theme: cosmo
     toc: yes
     toc_depth: 2
     toc_float: yes
-  pdf_document:
-    toc: no
 subtitle: Course Syllabus
 ---
 
@@ -36,7 +36,7 @@ You may also schedule an appointment with me (check my [calendar](https://calend
 **Textbook:** *Introductory Statistics with Randomization and Simulation (2014)*,
 David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
 
-![](images/textbook.jpg)
+<!-- ![](images/textbook.jpg) -->
 
 > Available free online or from Amazon or the bookstore for under $10
 **Companion website:**	[https://www.openintro.org/stat/textbook.php](https://www.openintro.org/stat/textbook.php)
@@ -205,6 +205,8 @@ St. Olaf's Academic Integrity Policy, including the Honor System, is an integral
 
 * Don't treat the honor code lightly; if you're in doubt about a possible violation, ask me.
 
+\newpage
+
 # Schedule
 
 **Tentative Outline of topics:** The following table provides a *rough sketch* of the topics we’ll cover during specific weeks, along with the associated reading assignments in our textbook:
@@ -232,4 +234,5 @@ St. Olaf's Academic Integrity Policy, including the Honor System, is an integral
 | Week 15 | Wrap up and Review | |
 | | **Final Exam: Saturday, Dec 14, 2:00-4:00 PM** |
 
-![ [https://xkcd.com/552/](https://xkcd.com/552/) ](images/correlation.png)
+
+<!-- ![ [https://xkcd.com/552/](https://xkcd.com/552/) ](images/correlation.png) -->
