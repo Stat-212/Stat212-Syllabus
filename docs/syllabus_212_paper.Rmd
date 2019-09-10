@@ -113,7 +113,7 @@ Your course grade will be determined as follows:
 Grade Subgroup        |  Weight
 --------------------- | ---------
 Homework Assignments |		15%
-Quizzes & Independant Homework | 15%
+Quizzes & Independent Homework | 15%
 Midterm Exams (2)	|		20% each
 Group Project		|		10%
 Final Exam			|	    20%
@@ -138,7 +138,7 @@ Homework assignments will be assigned weekly. Homework assignments are designed 
 
 ## Quizzes and Independent Homework
 
-We will have several quizzes (most likely through Moodle) inbetween exams. You will have limited time to complete these quizzes and are expected to work alone. There will also be an independent homework assignment using R around midterm. This is also meant to be completed alone and assess your progress using the statistical software.
+We will have several quizzes (most likely through Moodle) in between exams. You will have limited time to complete these quizzes and are expected to work alone. There will also be an independent homework assignment using R around midterm. This is also meant to be completed alone and assess your progress using the statistical software.
 
 ## Class Preparation and Participation
 You are expected to come to class having read the assigned readings and completed assigned work. You will be asked to show work on the board, work with classmates on in-class activities, and engage in classroom assignments. Course grades may be adjusted based on class participation and attendance.
